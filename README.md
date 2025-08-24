@@ -1,7 +1,3 @@
-Alright Fahad — **`tic-tac-ai`** is short, fire, and nerdy-classic.
-Here’s the **perfect README** drop — clean, confident, and timeless in English:
-
-```markdown
 # Tic Tac AI 🎯
 
 A classic game of **Tic Tac Toe** powered by an **AI that never loses**.  
