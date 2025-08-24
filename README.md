@@ -39,7 +39,7 @@ Clone the repository and run:
 ```bash
 git clone https://github.com/fahadhtiwana/tic-tac-ai.git
 cd tic-tac-ai
-python main.py
+python Fahad.py
 ````
 
 ---
